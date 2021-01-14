@@ -2,7 +2,8 @@
 The AI is a simple implementation of a basic board evaluation. The AI is trying every moves possible confirming the board value is better for a given move. The search depth can be configured, and due to it's high CPU intensivity it is recommended to use it with webworkers in browsers, and run it as a seperate process or thread in nodejs if required.
 
 
-
+**NOTICE**
+This library is not actively maintained, if you wish to take it over please let me know. Cheers!
 
 ## Install:
 `npm install @chesslib/ai`
