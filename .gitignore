@@ -2,8 +2,13 @@
 
 # compiled output
 /dist
+/build
 /tmp
 /out-tsc
+
+**/*.js
+
+/build
 
 
 # dependencies

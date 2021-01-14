@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BoardEvaluations = exports.boardEvalsBlack = exports.boardEvalsWhite = void 0;
 function reverseArray(array) {
     return array.slice().reverse();
 }
@@ -78,5 +79,4 @@ exports.BoardEvaluations = [
     exports.boardEvalsBlack,
     exports.boardEvalsWhite,
 ];
-
 //# sourceMappingURL=BoardEvals.js.map

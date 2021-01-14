@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../source/ChessAI/index.ts"],"names":[],"mappings":";;;;;AAAA,+BAA0B;AAC1B,qCAAgC","file":"index.js","sourcesContent":["export * from \"./ChessAI\";\r\nexport * from \"./ChessAIWorker\";"]}
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../source/ChessAI/index.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,4CAA0B;AAC1B,kDAAgC"}
